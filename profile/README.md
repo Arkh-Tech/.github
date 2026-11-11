@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://arkhtech.com.br/" title="Conheça a Arkh-Tech">
     <img
-      src="./images/logo.png"
+      src="./../images/logo.png"
       alt="Logotipo oficial da Arkh-Tech Software Developer"
       width="240"
       />
